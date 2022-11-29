@@ -1,1 +1,3 @@
-# 3C-KnowledgeBase
+# Headline
+
+> An awesome project.
