@@ -1,5 +1,5 @@
-# docsify-demo
+# 个人消费学习地图
 
-[如何使用docsify搭建文档类型的网站](https://mp.weixin.qq.com/s/TPXHaTdfTYKrcpm77gPHyA)
+该文档为本人收集整理学习，所有内容仅供参考
 
 ### 安利一个在线学习Java的文档
